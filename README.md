@@ -30,3 +30,7 @@ This repository outlines a structured approach I use to evaluate third-party con
 - Lessons learned & playbook refinement
 
 This framework ensures conferences are treated as commercial growth levers rather than standalone marketing moments.
+
+## Downloadable Resource
+
+A structured Conference Evaluation & ROI Template is included in this repository to support practical implementation and post-event commercial analysis.
